@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Lab 05
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-lab05/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Purpose of the Lab:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download and install Postman
 
-### Markdown
+Create a CIT 281 collection and folders
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create a Node.js and fastify server application with GET and respond with JSON
 
-```markdown
-Syntax highlighted code block
+Add array of students object
 
-# Header 1
-## Header 2
-### Header 3
+Use Postman to test server GET routes
 
-- Bulleted
-- List
+Add POST handling to server application and respond with JSON
 
-1. Numbered
-2. List
+Use Postman and POST request
 
-**Bold** and _Italic_ and `Code` text
+Technologies Used for the Lab:
 
-[Link](url) and ![Image](src)
-```
+Node.js, Terminal, JSON, Postman, VSCode
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+What I Learned From the Lab:
 
-### Jekyll Themes
+From this lab I learned how to use postman as a tool to test and run server routes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-lab05/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
